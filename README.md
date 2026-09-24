@@ -1,4 +1,4 @@
-# Xavier Bou — Consultant outils et solutions IA
+# Xavier Joseph Bou — Consultant outils et solutions IA
 
 > L'IA n'a de valeur que si elle résout un vrai problème.
 
