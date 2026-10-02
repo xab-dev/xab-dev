@@ -1,4 +1,4 @@
-# Xavier Joseph Bou — Consultant outils et solutions IA
+# Xavier Bou — Consultant outils et solutions IA
 
 > L'IA n'a de valeur que si elle résout un vrai problème.
 
@@ -31,8 +31,8 @@ Chaque étape est tracée : journal de session, dette numérotée, limites docum
 | Projet | En bref | Statut |
 | --- | --- | --- |
 | [**Portfolio v2**](https://github.com/xab-dev/portfolio-v2) | Portfolio/CV interactif (simulateur de stack, playground d'agent), construit entièrement par specs. Le dépôt public contient le journal d'audit complet du travail avec l'IA. | En production |
-| [**RPG-v2**](https://github.com/xab-dev/RPGv2) | Refonte d'un RPG médiéval-fantastique en HTML5/Canvas, sans dépendance et data-driven : une vitrine de ce que le développement assisté par IA permet à un développeur seul. | En développement |
-| **haTD** | Tower defense clicker solo avec une couche RPG. [Jouable dans le navigateur](https://xab-dev.github.io/portfolio-v2/#jouer). | V1 fonctionnelle |
+| [**RPG-v2**](https://github.com/xab-dev/RPGv2) | RPG action-aventure 2D en HTML5/Canvas, conçu et développé avec des agents IA : une vitrine de ce que le développement assisté par IA permet à un développeur seul. [Jouable dans le navigateur](https://xab-dev.github.io/RPGv2/). | En ligne (v1.2) |
+| **haTD** | Tower defense clicker solo avec une couche RPG. | V1 fonctionnelle |
 | **miniCiel** | Kit USB d'intervention IT : diagnostiquer et entretenir un PC client en 30 min, sans installation ni réseau. | V1 fonctionnelle |
 | **Bibliothèque de templates de spec** | 6 formats pour transformer une dictée brute en instruction exploitable par un agent de code. | En production |
 
